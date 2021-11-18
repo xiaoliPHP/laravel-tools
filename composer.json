@@ -1,13 +1,13 @@
 {
-    "name": "osjava/laravel-tools",
+    "name": "xiaoliphp/laravel-tools",
     "description": "This is some tools for applications develop on laravel",
     "keywords": ["laravel", "apidoc", "asciidoc"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "samboy",
-            "email": "samboy@osjava.net"
+            "name": "xiaoli",
+            "email": "xiaoliphper@163.com"
         }
     ],
     "require": {
